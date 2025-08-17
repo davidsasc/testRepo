@@ -1,0 +1,4 @@
+android.telephony.TelephonyManager.getSimOperator
+
+
+android.hardware.display.DisplayManager.getDisplays
