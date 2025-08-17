@@ -1,0 +1,2 @@
+  "android.test.mock.MockPackageManager.queryIntentServices",
+android.telephony.TelephonyManager.getSimOperator
