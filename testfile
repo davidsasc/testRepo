@@ -1,0 +1,1 @@
+android.net.NetworkInfo.getDetailedState("this is a test")
